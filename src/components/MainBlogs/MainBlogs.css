@@ -1,0 +1,161 @@
+.swiper1 {
+    width: 1750px;
+    height: 1080px;
+}
+
+.swiper2 {
+    width: 1750px;
+    height: 1080px;
+}
+
+.fe {
+    display: flex;
+}
+
+.btn2 {
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: rgb(99, 97, 97);
+}
+
+.inp {
+    font-size: 20px;
+    margin-left: 640px;
+    margin-right: 30px;
+    border: unset;
+    margin-top: 50px;
+    height: 50px;
+    border-radius: 5px 0 0 5px;
+    background-color: #ffffff;
+}
+
+.link3 {
+    margin: 12px;
+    display: flex;
+    font-size: 22px;
+    color: black;
+}
+
+.card {
+    background: url(./image33.png) 0 0 / cover;
+    margin-top: -40px;
+    height: 1080px;
+}
+
+.txt1 {
+    margin-left: 630px;
+    padding: 60px 0px;
+    color: white;
+    font-size: 45px;
+}
+
+.card1 {
+    margin-top: 20px;
+    display: flex;
+    margin-left: 650px;
+}
+
+.card2 {
+    display: flex;
+    margin-left: 650px;
+    margin-top: 30px;
+}
+
+.card3 {
+    display: flex;
+    margin-left: 650px;
+    margin-top: 30px;
+}
+
+.grtxt {
+    font-size: 20px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.group2 {
+    margin-left: 55px;
+}
+
+.img1 {
+    border-radius: 7px;
+}
+
+.Production {
+    height: 1210px;
+    margin-top: 70px;
+    background: url(./Rectangle20.png) 0 0 / cover;
+}
+
+.txt2 {
+    margin-top: -70px;
+    margin-left: 678px;
+    padding: 90px 0px;
+    color: white;
+    font-size: 45px;
+}
+
+.frame1 {
+    margin-left: 400px;
+    margin-top: -50px;
+    color: white;
+    font-size: 18px;
+}
+
+.frame2 {
+    margin-left: 40px;
+    margin-top: -50px;
+    color: white;
+    font-size: 18px;
+}
+
+.fram {
+    display: flex;
+}
+
+.Prod2 {
+    height: 980px;
+    margin-top: -40px;
+    background: url(./Rectangle\ 22.png) 0 0 / cover;
+}
+
+.txt3 {
+    margin-top: 40px;
+    margin-left: 630px;
+    padding: 90px 0px;
+    color: white;
+    font-size: 45px;
+}
+
+.content__laft {
+    margin-top: 65px;
+    color: white;
+    width: 639px;
+    height: 282px;
+    font-size: 18px;
+    margin-left: 230px;
+}
+
+.content__right {
+    margin-left: 100px;
+
+}
+
+.im_or {
+    padding: 90px 0px;
+}
+
+.btn__ord2 {
+    margin-top: 30px;
+    border: unset;
+    color: white;
+    border-radius: 7px;
+    font-size: 22px;
+    margin-left: -340px;
+    padding: 7px 15px;
+    background: #3552AE;
+}

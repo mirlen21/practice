@@ -1,24 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import Layout from './components/Layout/Layout';
+import { Route, Routes } from 'react-router-dom';
+import 'react-router-dom'
+import AllNews from './components/AllNews/AllNews'
+import About from './components/About/About'
+import News from './components/News/News';
+import Ordered from './components/Ordered/Ordered';
+import  MainBlogs from './components/MainBlogs/MainBlogs';
+import './components/News/News';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Layout>
+      <Routes>
+        <Route path='/' element={<MainBlogs />} />
+        <Route path='/Allnews' element={<AllNews />} />
+        <Route path='/About' element={<About />} />
+        <Route path='/News' element={<News/>} />
+        {/* <Route path='/AddBlog' element={<AddBlog />} /> */}
+        <Route path='/Ordered' element={<Ordered />} />
+      </Routes>
+    </Layout>
   );
 }
 

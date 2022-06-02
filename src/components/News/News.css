@@ -1,0 +1,22 @@
+.blog-item
+{
+    margin-top: 50px;
+    width: 280px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.704);
+}
+.image
+{
+   width: 100%;
+   max-height: 40%;
+   border-radius: 15px 15px 0 0;
+}
+.blog-name
+{
+    margin: 0;
+}
+.info
+{
+    padding: 10px;
+}
