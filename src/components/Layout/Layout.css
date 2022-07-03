@@ -46,7 +46,7 @@
   border-radius: 7px;
   font-size: 22px;
   margin-left: 20px;
-  padding: 7px 15px ;
+  padding: 7px 15px;
   background: #3552AE;
 }
 
@@ -106,4 +106,147 @@
 .avatar {
   width: 50px;
   height: 50px;
+}
+
+.footer-conteiner1 {
+  background-color: #130F40;
+  margin: auto;
+  display: flex;
+}
+
+.cont1 {
+  display: flex;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 120px;
+  color: #C4C4C4;
+}
+
+.foto {
+  border-radius: 3px;
+}
+
+.txt {
+  font-size: 20px;
+  color: #C4C4C4;
+  letter-spacing: 1px;
+  width: 170px;
+  margin: 5px 20px 0;
+}
+
+.footer-conteiner2 {
+  background-color: #130F40;
+  border-top: 2px double #C4C4C4;
+  margin: auto;
+  display: flex;
+}
+
+.foot2 {
+  font-size: 20px;
+  margin-left: 110px;
+  margin-right: 80px;
+  color: #C4C4C4;
+}
+
+
+.foot3 {
+  font-size: 20px;
+  margin-left: 120px;
+  color: #C4C4C4;
+}
+
+.foot4 {
+  font-size: 20px;
+  margin-left: 220px;
+  color: #C4C4C4;
+}
+
+.foot5 {
+  font-size: 20px;
+  margin-left: 250px;
+  color: #C4C4C4;
+}
+
+.btn__ord3 {
+  border: unset;
+  color: white;
+  border-radius: 7px;
+  margin-left: 220px;
+  background: #3552AE;
+}
+
+.btn__ord4 {
+  margin-top: 70px;
+  border: unset;
+  color: white;
+  border-radius: 7px;
+  margin-left: -180px;
+  background: #3552AE;
+}
+
+.btn__ord5 {
+  margin-top: 70px;
+  border: unset;
+  color: white;
+  border-radius: 7px;
+  margin-left: -180px;
+  background: #3552AE;
+}
+
+.btn__ord6 {
+  margin-top: 35px;
+  border: unset;
+  color: white;
+  border-radius: 7px;
+  font-size: 22px;
+  margin-left: 120px;
+  padding: 7px 15px;
+  background: #3552AE;
+  margin-bottom: 30px;
+}
+
+.txt5 {
+  margin-top: 30px;
+  margin-left: 220px;
+  font-size: 20px;
+  color: #C4C4C4;
+  width: 300px;
+}
+
+.btn__ord_6 {
+  margin-top: 30px;
+  border: unset;
+  color: white;
+  border-radius: 7px;
+  font-size: 22px;
+  margin-left: 220px;
+  padding: 7px 15px;
+  background: #3552AE;
+  margin-bottom: 30px;
+}
+
+.cont3 {
+  display: flex;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 250px;
+  color: #C4C4C4;
+}
+
+.btn__ord_7 {
+  margin-top: 30px;
+  border: unset;
+  color: white;
+  border-radius: 7px;
+  font-size: 22px;
+  margin-left: 250px;
+  padding: 7px 15px;
+  background: #3552AE;
+  margin-bottom: 30px;
+}
+.txt6 {
+  margin-left: 20px;
+  font-size: 20px;
+  color: #C4C4C4;
+  width: 300px;
 }
